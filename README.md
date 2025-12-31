@@ -1,6 +1,6 @@
 # Cli-Editor
 
-Cli-Editor is a simple command-line file editor built on .NET 9.0. It lets you create, edit, delete, and rename files directly from the terminal. The core logic lives in `Cli-Editor.dll`, and `Cli-Editor.exe` is the native launcher that starts the .NET runtime and invokes the editor.
+Cli-Editor is a simple command-line file editor built on .NET 9.0. It lets you create, edit, delete, and rename files directly from the terminal. The core logic lives in `Cli-Editor.dll`, and `Cli-Editor` is the native launcher that starts the .NET runtime and invokes the editor.
 
 ---
 
@@ -12,12 +12,12 @@ Cli-Editor is designed for quick text-based editing without opening a full GUI e
 
 ## How to Use It
 
-The main entry point is `Cli-Editor.exe`. You pass flags and filenames to perform different operations.
+The main entry point is `Cli-Editor`. You pass flags and filenames to perform different operations.
 
 - **Create or Edit a file**
 
   ```bash
-  Cli-Editor.exe -n filename.txt
+  Cli-Editor -n filename.txt
   ```
 
   Inside the editor:
@@ -29,7 +29,7 @@ The main entry point is `Cli-Editor.exe`. You pass flags and filenames to perfor
 - **Delete a file**
 
   ```bash
-  Cli-Editor.exe -d filename.txt
+  Cli-Editor -d filename.txt
   ```
 
   The editor will ask for confirmation:
@@ -39,13 +39,13 @@ The main entry point is `Cli-Editor.exe`. You pass flags and filenames to perfor
 - **Rename a file**
 
   ```bash
-  Cli-Editor.exe -r oldname.txt newname.txt
+  Cli-Editor -r oldname.txt newname.txt
   ```
 
 - **Show help**
 
   ```bash
-  Cli-Editor.exe -h
+  Cli-Editor -h
   ```
 
   This prints usage, flags, and a short description of each command.
