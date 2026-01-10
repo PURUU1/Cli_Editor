@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6162A1F-3F28-4B48-B7E8-71E3162EEB57}|Cli-Editor\\Cli-Editor.csproj|c:\\users\\acer\\source\\repos\\app\\cli-editor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6162A1F-3F28-4B48-B7E8-71E3162EEB57}|Cli-Editor\\Cli-Editor.csproj|solutionrelative:cli-editor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\App\\Cli-Editor\\Program.cs",
+              "RelativeDocumentMoniker": "Cli-Editor\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\App\\Cli-Editor\\Program.cs",
+              "RelativeToolTip": "Cli-Editor\\Program.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAYwBwBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:55:59.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
